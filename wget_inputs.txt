@@ -1,0 +1,28 @@
+## 通常保存
+wget \
+--background \
+-e robots=off \
+--mirror \
+--wait=5 \
+--random-wait \
+--page-requisites \
+--convert-links \
+--input-file=hoge.txt
+
+## foo.txt内のURLの中から生きてるものだけを抽出後、bar.txtに出力
+wget \
+--spider \
+--background \
+--no-verbose \
+--input-file=foo.txt \
+| grep "200 OK" \
+| tee bar.txt
+
+#grepでURL抽出
+# https://orebibou.com/2017/10/grepでurlhttphttpsを抽出する正規表現url途中で改行がある場/
+cat url001-checked.txt | grep -H -zZoP 'http(s?)://[0-9a-zA-Z?=#+_&:/.%\n]+' | sed '/\x0/s/^/\x0/g' | tr -d '\n' | sed 's/\x0/&\n/g;s/$/\n/g' > url001-checked-grepped.txt
+
+# ToDo
+# - <meta http-equiv="refresh"/>でリダイレクトするページを探してダウンロードし直す
+# JSで動的に読み込むリンク（ex: onmousedown="window.location='example.html'" ）のあるページを探してDLし直す
+grep '^\</\>\{5,\}' url001-
