@@ -3,7 +3,7 @@
 ## ディレクトリ説明
 - edit-url：URLファイル編集作業用
 - url-stepney141：stepney141が収集したURLがある
-- url-cloudremix：CloudRemix氏が収集したURLがある
+- url-cloudremix：[CloudRemix氏が収集したURL](https://github.com/CloudRemix/geocities)がある
 - test：コマンドの実験用
 - 一番上の階層：実際のアーカイブ作業で使用するファイルを置く
 
@@ -11,7 +11,7 @@
 
 ### ファイル名
 - url001：stepney141が収集したURL
-- url002：CloudRemix氏が収集したURL
+- url002：[CloudRemix氏が収集したURL](https://github.com/CloudRemix/geocities)
 
 ### ファイル名のオプション
 - -checked：`wget --spider`にかけた、の意味
