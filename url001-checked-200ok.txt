@@ -631,8 +631,6 @@
 2019-01-12 14:56:51 URL: http://www.geocities.jp/chibindou/ 200 OK
 2019-01-12 14:56:51 URL: http://www.geocities.jp/mild4128/ 200 OK
 2019-01-12 14:56:51 URL: http://www.geocities.jp/yamarandng/ 200 OK
-http://www.geocities.jp/mrqfk679/:
-リモートファイルが存在していません -- リンクが壊れています!!!
 2019-01-12 14:56:51 URL: http://www.geocities.jp/takidsawa/ 200 OK
 2019-01-12 14:56:51 URL: http://www.geocities.jp/snk_kiseki10/ 200 OK
 2019-01-12 14:56:51 URL: http://www.geocities.jp/gamehouse_grindcrusher/ 200 OK
@@ -681,8 +679,6 @@ http://www.geocities.jp/mrqfk679/:
 2019-01-12 14:56:52 URL: http://www.geocities.jp/ryouji_koi/ 200 OK
 2019-01-12 14:56:52 URL: http://www.geocities.jp/markn5401/ 200 OK
 2019-01-12 14:56:52 URL: http://www.geocities.jp/marutabo/ 200 OK
-http://www.geocities.jp/miya635/:
-リモートファイルが存在していません -- リンクが壊れています!!!
 2019-01-12 14:56:52 URL: http://www.geocities.jp/mkjpg0312/ 200 OK
 2019-01-12 14:56:52 URL: http://www.geocities.jp/more_radiant/ 200 OK
 2019-01-12 14:56:53 URL: http://www.geocities.jp/tak_kobayakawa/ 200 OK
@@ -1647,8 +1643,6 @@ http://www.geocities.jp/miya635/:
 2019-01-12 14:57:21 URL: http://www.trainfrontview.net/ 200 OK
 2019-01-12 14:57:21 URL: http://www.geocities.jp/daibutsusama7/ 200 OK
 2019-01-12 14:57:21 URL: http://www.geocities.co.jp/CollegeLife-Lounge/6251/ 200 OK
-http://www.geocities.jp/onsei2007/index.html:
-リモートファイルが存在していません -- リンクが壊れています!!!
 2019-01-12 14:57:21 URL: http://www.geocities.jp/karamiso2004burning_divide/ 200 OK
 2019-01-12 14:57:21 URL: http://www.geocities.co.jp/Bookend-Soseki/2295/ 200 OK
 2019-01-12 14:57:21 URL: http://www.geocities.jp/ogasinjp/natsume.html 200 OK
@@ -2010,8 +2004,6 @@ http://www.geocities.jp/onsei2007/index.html:
 2019-01-12 14:57:30 URL: http://www.geocities.jp/fkoinuma/ 200 OK
 2019-01-12 14:57:30 URL: http://www.geocities.jp/rinkaku89/ 200 OK
 2019-01-12 14:57:30 URL: http://www.geocities.jp/sametamisosiru/ 200 OK
-http://www.geocities.jp/susano567miroku/:
-リモートファイルが存在していません -- リンクが壊れています!!!
 2019-01-12 14:57:30 URL: http://www.geocities.jp/rekiroken/ 200 OK
 2019-01-12 14:57:30 URL: http://www.geocities.jp/moe_koigoe/ 200 OK
 2019-01-12 14:57:30 URL: http://park.geocities.jp/hasuikesaisei/ 200 OK
