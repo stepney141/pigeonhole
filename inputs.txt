@@ -29,3 +29,5 @@ cat url001-checked.txt | grep -H -zZoP 'http(s?)://[0-9a-zA-Z?=#+_&:/.%\n]+' | s
 # Wikipedia外部リンク抽出用SQL
 use wikilinks;
 select el_to from externallinks where el_to like '%.geocities.jp/%' into outfile '/tmp/dump.txt';
+# 特定文字数以上のものを抽出
+select el_to from externallinks where el_to like '%.geocities.jp/%' and char_length(el_to) > 100 into outfile '/tmp/dump.txt';
